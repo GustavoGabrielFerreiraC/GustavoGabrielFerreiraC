@@ -69,7 +69,7 @@ const yhwach = {
 
 ### 🐍 Cobrinha de Contribuições
 
-<img src="perfil.jpeg" width="100%" />
+<img src="perfil.jpeg" width="100px" />
 
 *Essa cobrinha come seus commits! Quanto mais voce codar, maior ela fica.*
 

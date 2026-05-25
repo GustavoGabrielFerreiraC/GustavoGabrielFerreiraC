@@ -1,5 +1,5 @@
 <picture>
-  <img src="perfil.jpeg" width="100%">
+  <img src="perfil.jpeg" width="100px">
 </picture>
 
 <div align="center">

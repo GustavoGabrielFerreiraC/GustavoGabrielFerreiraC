@@ -1,6 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoGabrielFerreiraC/GustavoGabrielFerreiraC/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/GustavoGabrielFerreiraC/GustavoGabrielFerreiraC/main/assets/header-light.svg" width="100%">
+  <img src="perfil.jpeg" width="100%">
 </picture>
 
 <div align="center">
@@ -70,7 +69,7 @@ const yhwach = {
 
 ### 🐍 Cobrinha de Contribuições
 
-<img src="https://github.com/GustavoGabrielFerreiraC/GustavoGabrielFerreiraC/blob/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="perfil.jpeg" width="100%" />
 
 *Essa cobrinha come seus commits! Quanto mais voce codar, maior ela fica.*
 

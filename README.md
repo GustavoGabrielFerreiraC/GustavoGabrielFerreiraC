@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">👋 Yhwach</h1>
-<h3 align="center">Desenvolvedor Full-Stack | HTML · CSS · JavaScript</h3>
+<h3 align="center">Desenvolvedor Full-Stack | HTML · CSS · JavaScript · Pithon · React</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">

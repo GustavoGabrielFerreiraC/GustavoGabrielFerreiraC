@@ -1,12 +1,12 @@
 <!-- ===== CABEÇALHO ANIMADO ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Yhwach&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack&descSize=22&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Gustavo%20Gabriel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Desenvolvedor%20Full-Stack&descSize=20&descAlignY=60" width="100%" />
 </div>
 
 <!-- ===== TEXTO DIGITANDO ===== -->
 <div align="center">
   <a href="https://github.com/GustavoGabrielFerreiraC">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Yhwach+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%F0%9F%9A%80;PHP+%7C+React+%7C+Python;HTML+%7C+CSS+%7C+JavaScript;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Texto animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Gabriel+%F0%9F%91%8B;Estudante+do+2%C2%BA+m%C3%B3dulo+de+ADS+%F0%9F%8E%93;Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;PHP+%7C+React+%7C+Python;HTML+%7C+CSS+%7C+JavaScript;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Texto animado" />
   </a>
 </div>
 
@@ -26,18 +26,37 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🎓 Quem sou eu
+
+Olá! Eu sou o **Gustavo Gabriel**, **estudante do 2º módulo do curso de ADS (Análise e Desenvolvimento de Sistemas)**.
+
+> 💡 **O que é ADS?** É um curso superior de tecnologia focado na prática: aprender a analisar problemas, projetar sistemas e programar soluções reais para o mercado.
+
+Estou no começo da minha jornada, mas já coloco a mão na massa: estudo, crio projetos e publico tudo aqui no GitHub para mostrar a minha evolução.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=%3E+Criando+aplica%C3%A7%C3%B5es+web+completas;%3E+Do+front-end+ao+back-end;%3E+Sempre+aprendendo%2C+sempre+evoluindo" />
+
+| 🎯 Objetivo | 📍 Momento atual | 🚀 Próximo passo |
+|:---:|:---:|:---:|
+| Me tornar **Desenvolvedor Full-Stack** | **2º módulo de ADS** | Conquistar **estágio / primeira vaga** na área |
+
 </div>
 
-<br>
+---
 
-- 🔭 Trabalhando em projetos com **React**, **PHP** e **Python**
-- 🌱 Estudando novas tecnologias o tempo todo
-- 💬 Pergunte-me sobre desenvolvimento web
-- ⚡ Quanto mais eu codo, mais eu aprendo!
+## ✨ Meu diferencial
+
+<div align="center">
+
+| 🌱 Aprendo rápido | 🛠️ Aprendo fazendo | 🔄 Visão completa |
+|:---:|:---:|:---:|
+| Estou sempre estudando algo novo, mesmo no início do curso | Cada conceito da faculdade vira um projeto prático | Front-end e back-end: penso no sistema inteiro |
+
+| 🤝 Trabalho em equipe | 📈 Evolução constante | 🧠 Mentalidade de resolver |
+|:---:|:---:|:---:|
+| Gosto de trocar ideias e aprender com os outros | Meu GitHub mostra a minha melhora a cada commit | Foco em entender o problema antes de codar |
+
+</div>
 
 ---
 
@@ -66,23 +85,37 @@
 
 | Tecnologia | Nível |
 |:--|:--|
-| **HTML** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ |
-| **CSS** | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ |
-| **JavaScript** | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ |
-| **React** | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
-| **Python** | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
-| **PHP** | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ |
+| **HTML** | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ |
+| **CSS** | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+| **JavaScript** | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ |
+| **React** | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ |
+| **Python** | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ |
+| **PHP** | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ |
 
 </details>
 
 <details>
-<summary><b>🎯 Clique para ver o que estou aprendendo</b></summary>
+<summary><b>📚 Clique para ver o que estou aprendendo</b></summary>
 <br>
 
+- 🎓 Fundamentos de **análise e desenvolvimento de sistemas** (ADS)
 - 📘 Boas práticas em **React** (hooks, componentes reutilizáveis)
-- 🐍 Automação e APIs com **Python**
-- 🐘 Back-end moderno com **PHP**
-- 🎨 Animações e layouts responsivos com **CSS**
+- 🐍 Lógica de programação e automação com **Python**
+- 🐘 Back-end com **PHP**
+- 🎨 Layouts responsivos e animações com **CSS**
+
+</details>
+
+<details>
+<summary><b>🗺️ Clique para ver minha jornada</b></summary>
+<br>
+
+| Etapa | Status |
+|:--|:--|
+| 1º módulo de ADS: base de lógica e programação | ✅ Concluído |
+| 2º módulo de ADS: evoluindo na prática | 🔄 Em andamento |
+| Projetos pessoais no GitHub | 🔄 Sempre crescendo |
+| Primeiro estágio / vaga em desenvolvimento | 🎯 Meta |
 
 </details>
 

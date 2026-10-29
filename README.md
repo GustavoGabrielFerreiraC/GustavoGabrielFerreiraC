@@ -132,33 +132,6 @@ Estou no começo da minha jornada, mas já coloco a mão na massa: estudo, crio 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoGabrielFerreiraC&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF69B4&currStreakLabel=58A6FF" width="70%" />
 </div>
 
----
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GustavoGabrielFerreiraC&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" width="100%" />
-</div>
-
----
-
-## 📈 Atividades
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoGabrielFerreiraC&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF69B4" width="100%" />
-</div>
-
----
-
-## 🐍 Cobrinha
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GustavoGabrielFerreiraC/GustavoGabrielFerreiraC/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  <br>
-  <em>Quanto mais eu codar, maior ela fica!</em>
-</div>
-
----
 
 ## 💬 Frase do dia
 
